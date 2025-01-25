@@ -23,7 +23,7 @@ This project implements a Generative Adversarial Network (GAN) for generating re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/GAN-for-Image-Generation.git
+git clone https://github.com/Darwee4/GAN-for-Image-Generation.git
 cd GAN-for-Image-Generation
 ```
 
